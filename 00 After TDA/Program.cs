@@ -2,8 +2,8 @@
 
 public class Rectangle
 {
-    public int Width { get; set; }
-    public int Height { get; set; }
+    public int Width { private get; set; }
+    public int Height { private get; set; }
 
     public int CalculateArea()
     {
