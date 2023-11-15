@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\Bootcamp\\vscode\\Day 24\\I_BeforeKISS\\I_BeforeKISS.csproj",
+      "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day 24\\I_BeforeKISS\\I_BeforeKISS.csproj",
       "projectName": "I_BeforeKISS",
-      "projectPath": "C:\\C#\\Bootcamp\\vscode\\Day 24\\I_BeforeKISS\\I_BeforeKISS.csproj",
+      "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 24\\I_BeforeKISS\\I_BeforeKISS.csproj",
       "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\Bootcamp\\vscode\\Day 24\\I_BeforeKISS\\obj\\",
+      "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 24\\I_BeforeKISS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

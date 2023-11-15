@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\Bootcamp\\vscode\\Day 24\\I_BeforeKISS\\I_BeforeKISS.csproj": {}
+    "C:\\CSharp\\Bootcamp\\vscode\\Day 24\\I_BeforeKISS\\I_BeforeKISS.csproj": {}
   },
   "projects": {
-    "C:\\C#\\Bootcamp\\vscode\\Day 24\\I_BeforeKISS\\I_BeforeKISS.csproj": {
+    "C:\\CSharp\\Bootcamp\\vscode\\Day 24\\I_BeforeKISS\\I_BeforeKISS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\Bootcamp\\vscode\\Day 24\\I_BeforeKISS\\I_BeforeKISS.csproj",
+        "projectUniqueName": "C:\\CSharp\\Bootcamp\\vscode\\Day 24\\I_BeforeKISS\\I_BeforeKISS.csproj",
         "projectName": "I_BeforeKISS",
-        "projectPath": "C:\\C#\\Bootcamp\\vscode\\Day 24\\I_BeforeKISS\\I_BeforeKISS.csproj",
+        "projectPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 24\\I_BeforeKISS\\I_BeforeKISS.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\Bootcamp\\vscode\\Day 24\\I_BeforeKISS\\obj\\",
+        "outputPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 24\\I_BeforeKISS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
