@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\Bootcamp\\vscode\\Day 24\\B_Before OCP\\B_Before OCP.csproj",
+      "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day 24\\B_Before OCP\\B_Before OCP.csproj",
       "projectName": "B_Before OCP",
-      "projectPath": "C:\\C#\\Bootcamp\\vscode\\Day 24\\B_Before OCP\\B_Before OCP.csproj",
+      "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 24\\B_Before OCP\\B_Before OCP.csproj",
       "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\Bootcamp\\vscode\\Day 24\\B_Before OCP\\obj\\",
+      "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 24\\B_Before OCP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

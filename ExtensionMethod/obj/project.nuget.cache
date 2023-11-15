@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OxDpjnyrlRfC5/D8+3w397zUTU60k8C9W6VXw1lu0nqMs50mpJlIgU1zaCJjxWZ8ES7ou4sm8CmUzJsziEImRQ==",
+  "dgSpecHash": "UW0dQvpJWK099mL0Ps6sN6O/SGyoQJhxpCYNcp89V7dHcxFRQJYNAzwTgbz23qodz9iaXb/cG/1ndtOCf/b/pw==",
   "success": true,
-  "projectFilePath": "C:\\C#\\Bootcamp\\vscode\\Day 24\\ExtensionMethod\\ExtensionMethod.csproj",
+  "projectFilePath": "C:\\CSharp\\Bootcamp\\vscode\\Day 24\\ExtensionMethod\\ExtensionMethod.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

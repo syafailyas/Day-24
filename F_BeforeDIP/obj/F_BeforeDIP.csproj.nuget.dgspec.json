@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\Bootcamp\\vscode\\Day 24\\F_BeforeDIP\\F_BeforeDIP.csproj": {}
+    "C:\\CSharp\\Bootcamp\\vscode\\Day 24\\F_BeforeDIP\\F_BeforeDIP.csproj": {}
   },
   "projects": {
-    "C:\\C#\\Bootcamp\\vscode\\Day 24\\F_BeforeDIP\\F_BeforeDIP.csproj": {
+    "C:\\CSharp\\Bootcamp\\vscode\\Day 24\\F_BeforeDIP\\F_BeforeDIP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\Bootcamp\\vscode\\Day 24\\F_BeforeDIP\\F_BeforeDIP.csproj",
+        "projectUniqueName": "C:\\CSharp\\Bootcamp\\vscode\\Day 24\\F_BeforeDIP\\F_BeforeDIP.csproj",
         "projectName": "F_BeforeDIP",
-        "projectPath": "C:\\C#\\Bootcamp\\vscode\\Day 24\\F_BeforeDIP\\F_BeforeDIP.csproj",
+        "projectPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 24\\F_BeforeDIP\\F_BeforeDIP.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\Bootcamp\\vscode\\Day 24\\F_BeforeDIP\\obj\\",
+        "outputPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 24\\F_BeforeDIP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

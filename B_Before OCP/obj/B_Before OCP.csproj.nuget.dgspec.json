@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\Bootcamp\\vscode\\Day 24\\B_Before OCP\\B_Before OCP.csproj": {}
+    "C:\\CSharp\\Bootcamp\\vscode\\Day 24\\B_Before OCP\\B_Before OCP.csproj": {}
   },
   "projects": {
-    "C:\\C#\\Bootcamp\\vscode\\Day 24\\B_Before OCP\\B_Before OCP.csproj": {
+    "C:\\CSharp\\Bootcamp\\vscode\\Day 24\\B_Before OCP\\B_Before OCP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\Bootcamp\\vscode\\Day 24\\B_Before OCP\\B_Before OCP.csproj",
+        "projectUniqueName": "C:\\CSharp\\Bootcamp\\vscode\\Day 24\\B_Before OCP\\B_Before OCP.csproj",
         "projectName": "B_Before OCP",
-        "projectPath": "C:\\C#\\Bootcamp\\vscode\\Day 24\\B_Before OCP\\B_Before OCP.csproj",
+        "projectPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 24\\B_Before OCP\\B_Before OCP.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\Bootcamp\\vscode\\Day 24\\B_Before OCP\\obj\\",
+        "outputPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 24\\B_Before OCP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

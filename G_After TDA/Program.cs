@@ -7,7 +7,7 @@ public class Rectangle
 
     public int CalculateArea()
     {
-        return Width * Height;
+        return Width*Height;
     }
 }
 

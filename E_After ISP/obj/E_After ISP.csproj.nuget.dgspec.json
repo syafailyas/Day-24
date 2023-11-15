@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\Bootcamp\\vscode\\Day 24\\E_After ISP\\E_After ISP.csproj": {}
+    "C:\\CSharp\\Bootcamp\\vscode\\Day 24\\E_After ISP\\E_After ISP.csproj": {}
   },
   "projects": {
-    "C:\\C#\\Bootcamp\\vscode\\Day 24\\E_After ISP\\E_After ISP.csproj": {
+    "C:\\CSharp\\Bootcamp\\vscode\\Day 24\\E_After ISP\\E_After ISP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\Bootcamp\\vscode\\Day 24\\E_After ISP\\E_After ISP.csproj",
+        "projectUniqueName": "C:\\CSharp\\Bootcamp\\vscode\\Day 24\\E_After ISP\\E_After ISP.csproj",
         "projectName": "E_After ISP",
-        "projectPath": "C:\\C#\\Bootcamp\\vscode\\Day 24\\E_After ISP\\E_After ISP.csproj",
+        "projectPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 24\\E_After ISP\\E_After ISP.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\Bootcamp\\vscode\\Day 24\\E_After ISP\\obj\\",
+        "outputPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 24\\E_After ISP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

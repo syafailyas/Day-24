@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\Bootcamp\\vscode\\Day 24\\ExtensionMethod\\ExtensionMethod.csproj": {}
+    "C:\\CSharp\\Bootcamp\\vscode\\Day 24\\ExtensionMethod\\ExtensionMethod.csproj": {}
   },
   "projects": {
-    "C:\\C#\\Bootcamp\\vscode\\Day 24\\ExtensionMethod\\ExtensionMethod.csproj": {
+    "C:\\CSharp\\Bootcamp\\vscode\\Day 24\\ExtensionMethod\\ExtensionMethod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\Bootcamp\\vscode\\Day 24\\ExtensionMethod\\ExtensionMethod.csproj",
+        "projectUniqueName": "C:\\CSharp\\Bootcamp\\vscode\\Day 24\\ExtensionMethod\\ExtensionMethod.csproj",
         "projectName": "ExtensionMethod",
-        "projectPath": "C:\\C#\\Bootcamp\\vscode\\Day 24\\ExtensionMethod\\ExtensionMethod.csproj",
+        "projectPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 24\\ExtensionMethod\\ExtensionMethod.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\Bootcamp\\vscode\\Day 24\\ExtensionMethod\\obj\\",
+        "outputPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 24\\ExtensionMethod\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

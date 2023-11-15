@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\Bootcamp\\vscode\\Day 24\\G_After TDA\\G_After TDA.csproj": {}
+    "C:\\CSharp\\Bootcamp\\vscode\\Day 24\\G_After TDA\\G_After TDA.csproj": {}
   },
   "projects": {
-    "C:\\C#\\Bootcamp\\vscode\\Day 24\\G_After TDA\\G_After TDA.csproj": {
+    "C:\\CSharp\\Bootcamp\\vscode\\Day 24\\G_After TDA\\G_After TDA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\Bootcamp\\vscode\\Day 24\\G_After TDA\\G_After TDA.csproj",
+        "projectUniqueName": "C:\\CSharp\\Bootcamp\\vscode\\Day 24\\G_After TDA\\G_After TDA.csproj",
         "projectName": "G_After TDA",
-        "projectPath": "C:\\C#\\Bootcamp\\vscode\\Day 24\\G_After TDA\\G_After TDA.csproj",
+        "projectPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 24\\G_After TDA\\G_After TDA.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\Bootcamp\\vscode\\Day 24\\G_After TDA\\obj\\",
+        "outputPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 24\\G_After TDA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

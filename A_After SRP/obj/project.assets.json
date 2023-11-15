@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\Bootcamp\\vscode\\Day 24\\A_After SRP\\A_After SRP.csproj",
+      "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day 24\\A_After SRP\\A_After SRP.csproj",
       "projectName": "A_After SRP",
-      "projectPath": "C:\\C#\\Bootcamp\\vscode\\Day 24\\A_After SRP\\A_After SRP.csproj",
+      "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 24\\A_After SRP\\A_After SRP.csproj",
       "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\Bootcamp\\vscode\\Day 24\\A_After SRP\\obj\\",
+      "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 24\\A_After SRP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

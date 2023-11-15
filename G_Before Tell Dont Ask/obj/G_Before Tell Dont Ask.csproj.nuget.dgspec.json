@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\Bootcamp\\vscode\\Day 24\\G_Before Tell Dont Ask\\G_Before Tell Dont Ask.csproj": {}
+    "C:\\CSharp\\Bootcamp\\vscode\\Day 24\\G_Before Tell Dont Ask\\G_Before Tell Dont Ask.csproj": {}
   },
   "projects": {
-    "C:\\C#\\Bootcamp\\vscode\\Day 24\\G_Before Tell Dont Ask\\G_Before Tell Dont Ask.csproj": {
+    "C:\\CSharp\\Bootcamp\\vscode\\Day 24\\G_Before Tell Dont Ask\\G_Before Tell Dont Ask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\Bootcamp\\vscode\\Day 24\\G_Before Tell Dont Ask\\G_Before Tell Dont Ask.csproj",
+        "projectUniqueName": "C:\\CSharp\\Bootcamp\\vscode\\Day 24\\G_Before Tell Dont Ask\\G_Before Tell Dont Ask.csproj",
         "projectName": "G_Before Tell Dont Ask",
-        "projectPath": "C:\\C#\\Bootcamp\\vscode\\Day 24\\G_Before Tell Dont Ask\\G_Before Tell Dont Ask.csproj",
+        "projectPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 24\\G_Before Tell Dont Ask\\G_Before Tell Dont Ask.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\Bootcamp\\vscode\\Day 24\\G_Before Tell Dont Ask\\obj\\",
+        "outputPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 24\\G_Before Tell Dont Ask\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

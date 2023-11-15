@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\Bootcamp\\vscode\\Day 24\\C_Before LSP\\C_Before LSP.csproj",
+      "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day 24\\C_Before LSP\\C_Before LSP.csproj",
       "projectName": "C_Before LSP",
-      "projectPath": "C:\\C#\\Bootcamp\\vscode\\Day 24\\C_Before LSP\\C_Before LSP.csproj",
+      "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 24\\C_Before LSP\\C_Before LSP.csproj",
       "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\Bootcamp\\vscode\\Day 24\\C_Before LSP\\obj\\",
+      "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 24\\C_Before LSP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
