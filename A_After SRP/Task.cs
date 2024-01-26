@@ -6,10 +6,11 @@ public class TaskManager
 
 	public void AddTask(int employeeId, string task)
 	{
-		if (!_employeeTasks.ContainsKey(employeeId))
+		if ( !_employeeTasks.ContainsKey(employeeId) )
 		{
 			_employeeTasks[employeeId] = new List<string>();
 		}
+
 		_employeeTasks[employeeId].Add(task);
 	}
 
@@ -17,8 +18,9 @@ public class TaskManager
 	{
 		// if (_employeeTasks.ContainsKey(employeeId))
 		// {
-		// 	return _employeeTasks[employeeId];
+		// 	    return _employeeTasks[employeeId];
 		// }
+
 		return Enumerable.Empty<string>();
 	}
 }

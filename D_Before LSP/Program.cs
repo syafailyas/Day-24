@@ -1,38 +1,39 @@
 ﻿class Animal
 {
-    public virtual void MakeSound()
-    {
-        Console.WriteLine("Animal sound");
-    }
+	public virtual void MakeSound()
+	{
+		Console.WriteLine("Animal sound");
+	}
 }
 
 class Dog : Animal
 {
-    public override void MakeSound()
-    {
-        Console.WriteLine("Bark");
-    }
+	public override void MakeSound()
+	{
+		Console.WriteLine("Bark");
+	}
 }
 
 class Cat : Animal
 {
-    public override void MakeSound()
-    {
-        Console.WriteLine("Meow");
-    }
+	public override void MakeSound()
+	{
+		Console.WriteLine("Meow");
+	}
 }
 
 class Program
 {
-    static void Main(string[] args)
-    {
-        Animal[] animals = new Animal[2];
-        animals[0] = new Dog();
-        animals[1] = new Cat();
+	static void Main(string[] args)
+	{
+		Animal[] animals = new Animal[2];
 
-        foreach (Animal animal in animals)
-        {
-            animal.MakeSound();
-        }
-    }
+		animals[0] = new Dog();
+		animals[1] = new Cat();
+
+		foreach (Animal animal in animals)
+		{
+			animal.MakeSound();
+		}
+	}
 }

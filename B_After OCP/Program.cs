@@ -51,9 +51,9 @@ public class Program
     {
         var calculator = new Calculator();
 
-        Console.WriteLine("Addition: " + calculator.Calculate(5, 3, new Addition()));
-        Console.WriteLine("Subtraction: " + calculator.Calculate(5, 3, new Subtraction()));
-        Console.WriteLine("Multiplication: " + calculator.Calculate(5, 3, new Multiplication()));
-        Console.WriteLine("Division: " + calculator.Calculate(6, 3, new Division()));
+        Console.WriteLine( "Addition: " + calculator.Calculate( 5, 3, new Addition() ) );
+        Console.WriteLine( "Subtraction: " + calculator.Calculate( 5, 3, new Subtraction() ) );
+        Console.WriteLine( "Multiplication: " + calculator.Calculate( 5, 3, new Multiplication() ) );
+        Console.WriteLine( "Division: " + calculator.Calculate( 6, 3, new Division() ) );
     }
 }

@@ -6,6 +6,7 @@ public class Program
 	public static void Main(string[] args)
 	{
 		var employee = new Employee(1, "John");
+
 		employee.AddTask("Task 1");
 		employee.AddTask("Task 2");
 		employee.DisplayTasks();
@@ -33,10 +34,10 @@ public class Employee
 	public void DisplayTasks()
 	{
 		Console.WriteLine($"{Name}'s tasks:");
+
 		foreach (var task in Tasks)
 		{
 			Console.WriteLine(task);
 		}
 	}
 }
-

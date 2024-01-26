@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CSharp\\Bootcamp\\vscode\\Day 24\\B_Before OCP\\B_Before OCP.csproj": {}
+    "c:\\Users\\Batch 8\\OneDrive\\Desktop\\Day-24\\B_Before OCP\\B_Before OCP.csproj": {}
   },
   "projects": {
-    "C:\\CSharp\\Bootcamp\\vscode\\Day 24\\B_Before OCP\\B_Before OCP.csproj": {
+    "c:\\Users\\Batch 8\\OneDrive\\Desktop\\Day-24\\B_Before OCP\\B_Before OCP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSharp\\Bootcamp\\vscode\\Day 24\\B_Before OCP\\B_Before OCP.csproj",
+        "projectUniqueName": "c:\\Users\\Batch 8\\OneDrive\\Desktop\\Day-24\\B_Before OCP\\B_Before OCP.csproj",
         "projectName": "B_Before OCP",
-        "projectPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 24\\B_Before OCP\\B_Before OCP.csproj",
-        "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 24\\B_Before OCP\\obj\\",
+        "projectPath": "c:\\Users\\Batch 8\\OneDrive\\Desktop\\Day-24\\B_Before OCP\\B_Before OCP.csproj",
+        "packagesPath": "C:\\Users\\Batch 8\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Batch 8\\OneDrive\\Desktop\\Day-24\\B_Before OCP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Batch 8\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

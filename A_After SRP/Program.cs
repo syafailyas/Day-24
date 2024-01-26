@@ -12,7 +12,9 @@ public class Program
 
 		taskManager.AddTask(employee.Id, "Task 1");
 		taskManager.AddTask(employee.Id, "Task 2");
+
 		IEnumerable<string> tasks = taskManager.DisplayTasks(employee.Id, employee.Name);
+
 		foreach (var task in tasks)
 		{
 			Console.WriteLine(task);
